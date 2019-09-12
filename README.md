@@ -1,2 +1,2 @@
 # ISEM551
-This repository is for we application development
+This repository is for web application development
